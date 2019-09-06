@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+build/
+dist/
+venv/
+nifixer/ui/*_ui.py
+nifixer/ui/*_rc.py
+nifixer.egg-info
